@@ -16,7 +16,7 @@ $(selector).changeLanguage();
 ## Configuration
 ```javascript
 {
-    language: ""
+    language: "CountryCode{2}" // default: "bg";
 }
 ```
 ### Extend
