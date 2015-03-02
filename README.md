@@ -29,7 +29,7 @@ languages.ContryCode{2} = function(input) {
     }
 ```
 ## Demo
-<a href="http://codepen.io/mel/full/OPXNaq" target="_blank">codepen.io/mel/full/OPXNaq</a>
+<a href="http://codepen.io/mel/full/fwhyn" target="_blank">codepen.io/mel/full/fwhyn</a>
 ## License
 December 2014 <br />
 progressScroll 1.1.0 <br />
