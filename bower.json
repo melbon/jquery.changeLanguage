@@ -1,0 +1,22 @@
+{
+  "name": "jquery.changeLanguage",
+  "main": "jquery.changeLanguage.js",
+  "version": "1.0.0",
+  "authors": [
+    "melbon <mario@vidov.it>"
+  ],
+  "description": "How to type international characters on an English keyboard?",
+  "keywords": [
+    "lang2lang",
+    "changelanguage",
+    "internationalkeyboard"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
