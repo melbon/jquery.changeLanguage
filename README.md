@@ -14,7 +14,7 @@ bower install changelanguage
 $(selector).changeLanguage();
 ```
 ## Configuration
-######language
+#####language
 set your keyboard
 ```javascript
 default: ""
