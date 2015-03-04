@@ -14,10 +14,11 @@ bower install changelanguage
 $(selector).changeLanguage();
 ```
 ## Configuration
+######language
+set your keyboard
 ```javascript
-{
-    language: "CountryCode{2}" // default: "bg";
-}
+default: ""
+options: string
 ```
 ### Extend
 If you want to extend plugin with you language, you must add other file with your keyboard alphabet.
